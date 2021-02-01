@@ -1,0 +1,11 @@
+https://www.curseforge.com/wow/addons/BabbiWatch
+===========================================
+version 1.0.0 (9.0.2)
+
+커서포지 런칭
+
+version 0.9.9 (9.0.2)
+
+Warrior
+* 가로막기 추가
+
